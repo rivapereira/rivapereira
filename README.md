@@ -11,12 +11,12 @@
  Right now-? I'm working on dashboards to put on display and ML projects to fine-tune, code and create. Also looking forward to creating and documenting more work I've done in university projects and personal ones. Being a Data Analyst is a journey which I'm proud to keep trying on-!!
 
 
- ### Open to: 
+ #### Open to: 
  Collaborations, freelance projects, and data visualization challenges! Do let me know and hit me up for that-!!1
 
  Contact: https://www.linkedin.com/in/riva-pereira-05276525b/
  
- ### 💬 Guys-! Do Ask me to Collab or help in general, I really would be happy to help like-minded individuals, Dubai is the place for networking. Reach out-!
+ #### 💬 Guys-! Do Ask me to Collab or help in general, I really would be happy to help like-minded individuals, Dubai is the place for networking. Reach out-!
 
 <!--
 **rivapereira/rivapereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
