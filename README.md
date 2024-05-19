@@ -6,7 +6,7 @@
  
  I've also completed machine learning models (available in my repositories) and volunteered on projects that further honed my skills.
 
- ###### Currently Working on:
+ #### Currently Working on:
  
  Right now-? I'm working on dashboards to put on display and ML projects to fine-tune, code and create. Also looking forward to creating and documenting more work I've done in university projects and personal ones. Being a Data Analyst is a journey which I'm proud to keep trying on-!!
 
