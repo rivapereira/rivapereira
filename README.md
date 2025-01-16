@@ -19,7 +19,7 @@
  #### 💬 Guys-! Do Ask me to Collab or help in general, I really would be happy to help like-minded individuals, Dubai is the place for networking. Reach out-!
 
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 
 
