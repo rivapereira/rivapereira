@@ -1,58 +1,72 @@
-# ✨ Hi there! ✨  
-## 🌟 **Riva Pereira** | Big Data Student @ University of Wollongong Dubai | AI Residency Intern @ Decoding Datascience 🌟  
+<!-- Banner -->
+<p align="center">
+  <img src="https://your-banner-url.com/banner.png" alt="Riva Pereira Banner" width="100%">
+</p>
 
-I'm a passionate **Big Data** student with a focus on transforming complex datasets into actionable insights. I enjoy working with **Python** and **R** for data analysis and wrangling, and my strength lies in creating **interactive visualizations** using tools like **Power BI** and **Tableau**. My 4-month internship at **SAAIT**, a data visualization company, helped me sharpen my skills in designing and building meaningful dashboards.
-
-Currently, I'm interning at **Decoding Datascience** as part of an **AI Residency Program**, where I’m deepening my knowledge in **AI** and machine learning while collaborating on cutting-edge projects.
-
-I’ve also worked on a variety of **machine learning** models (check out my repos!) and have volunteered on data-driven projects to apply my skills in real-world contexts.
-
----
-
-## 🔧 **Skills & Technologies**  
-- **Programming Languages**: Python 🐍, R 📊, MySQL 🗄️  
-- **Data Visualization**: Power BI 📊, Tableau 📈  
-- **Machine Learning**: Data Cleaning, Model Building  
-- **Tools**: DAX (Power BI), Data Integrity Tools  
+<h1 align="center">Hi there! ✨ I'm Riva Pereira</h1>
+<h3 align="center">Big Data Student @ UOWD • AI Residency Intern @ Decoding Datascience</h3>
+<p align="center">Turning complex datasets into powerful insights 📊</p>
 
 ---
 
-## 💼 **Experience**
+### 🔧 Skills & Technologies
 
-### **Data Visualization Intern**  
-**Sahra Al Aman Information Technology**  
-_03/2024 - 07/2024_  
-- Created **data-driven dashboards** for leasing and property sales using **Power BI**.  
-- Applied **data cleaning** and visualization skills to ensure data accuracy and clarity in **client presentations**.  
-- Implemented **DAX calculations** to create dynamic Power BI filters, allowing faster trend identification.  
-- Established **relationships between tables** to ensure data integrity and quality.  
-- Utilized **Power BI's latest functionalities** to enhance the **interactivity** and **user experience** of client dashboards.
-
-### **Business Development and Sales Externship**  
-**Thematic and Extern**  
-_06/2024 - 07/2024_  
-- Conducted in-depth **market analysis** of the **music and creator economy** to identify emerging trends and growth opportunities.  
-- Curated a list of promising **YouTube** and **Instagram** content creators aligned with Thematic's network expansion strategy.  
-- Created compelling presentations to articulate complex **market research findings** and recommend targeted genres and creator personas for outreach.  
-- Enhanced **advertising effectiveness** through **data-driven insights** and recommendations.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DAX-004B87?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📚 **Personal Projects**  
-- **Chrome Dino Reinforcement Learning Agent**: Built a **Reinforcement Learning** agent to play the Chrome Dino game. Available in my repositories!
+### 💼 Experience
+
+**Data Visualization Intern**  
+📍 *Sahra Al Aman Information Technology*  
+🗓️ *Mar 2024 – Jul 2024*  
+- Created dashboards for leasing and property sales using Power BI  
+- Cleaned & visualized data for client-ready presentations  
+- Implemented DAX filters and enhanced interactivity  
+- Modeled table relationships to ensure data quality  
+
+**Business Development & Sales Externship**  
+📍 *Thematic (Externship)*  
+🗓️ *Jun 2024 – Jul 2024*  
+- Analyzed music and creator economy trends  
+- Identified and curated top YouTube/Instagram creators  
+- Built decks to present insights and target personas  
+- Boosted outreach with actionable recommendations  
 
 ---
 
-## 📫 **Contact**  
-Feel free to reach out for collaborations or projects!  
-[LinkedIn: Riva Pereira](https://www.linkedin.com/in/riva-pereira)
+### 📚 Personal Projects
 
+- 🦖 **Chrome Dino Reinforcement Learning Agent**  
+  Built an RL agent to master the Chrome Dino game. Check it out in my [repos](https://github.com/rivapereira)!
 
-### Open to:
-Collaborations, freelance projects, and data visualization challenges! Feel free to reach out if you'd like to work together!
+---
 
-### Contact:
-[![LinkedIn](https://img.shields.io/badge/Follow%20Me-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=riva-pereira)
-[![GitHub](https://img.shields.io/badge/My%20Code-GitHub-black?logo=github)](https://github.com/rivapereira)
+### 🌐 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=riva-pereira" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20Me-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/rivapereira" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🤝 Open to:
+- Collaborations  
+- Freelance projects  
+- Data visualization challenges
+
+Let’s build something amazing together! 🚀
 
 
