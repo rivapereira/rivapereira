@@ -52,7 +52,7 @@ Feel free to reach out for collaborations or projects!
 Collaborations, freelance projects, and data visualization challenges! Feel free to reach out if you'd like to work together!
 
 ### Contact:
-[LinkedIn: Riva Pereira](https://www.linkedin.com/in/riva-pereira)  
-[GitHub: Riva Pereira](https://github.com/rivapereira)
+[![LinkedIn](https://img.shields.io/badge/Follow%20Me-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=riva-pereira)
+[![GitHub](https://img.shields.io/badge/My%20Code-GitHub-black?logo=github)](https://github.com/rivapereira)
 
 
