@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-url.com/banner.png" alt="Riva Pereira Banner" width="100%">
+  <img src="Riva Pereira (9).png" alt="Riva Pereira Banner" width="100%">
 </p>
 
 <h1 align="center">Hi there! ✨ I'm Riva Pereira</h1>
