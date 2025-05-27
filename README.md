@@ -1,3 +1,9 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://your-banner-url.com/banner.png" alt="Riva Pereira Banner" width="100%">
+</p>
+
+
 <h1 align="center">Hi there! ✨ I'm Riva Pereira</h1>
 <h3 align="center">Big Data Student @ UOWD • AI Residency Intern @ Decoding Datascience</h3>
 <p align="center">Turning complex datasets into powerful insights 📊</p>
