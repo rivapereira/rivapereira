@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="Riva Pereira (9).png" alt="Riva Pereira Banner" width="100%">
-</p>
-
 <h1 align="center">Hi there! ✨ I'm Riva Pereira</h1>
 <h3 align="center">Big Data Student @ UOWD • AI Residency Intern @ Decoding Datascience</h3>
 <p align="center">Turning complex datasets into powerful insights 📊</p>
@@ -44,8 +39,8 @@
 
 ### 📚 Personal Projects
 
-- 🦖 **Chrome Dino Reinforcement Learning Agent**  
-  Built an RL agent to master the Chrome Dino game. Check it out in my [repos](https://github.com/rivapereira)!
+🦖 **Chrome Dino Reinforcement Learning Agent**  
+Built an RL agent to master the Chrome Dino game. Check it out in my repos!
 
 ---
 
@@ -55,8 +50,11 @@
   <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=riva-pereira" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20Me-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/rivapereira" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://huggingface.co/rivapereira123" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-Model%20Hub-fcc72e?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  </a>
+  <a href="https://linktr.ee/riva_pereira?utm_source=linktree_profile_share&ltsid=6a9c870a-0f68-41f1-bec0-e900e2afdd1c" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-Explore%20More-39e09b?style=for-the-badge&logo=linktree&logoColor=white"/>
   </a>
 </p>
 
