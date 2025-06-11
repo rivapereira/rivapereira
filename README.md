@@ -8,9 +8,11 @@
 <h3 align="center">Big Data Student @ UOWD • AI Residency Intern @ Decoding Datascience</h3>
 <p align="center">Turning complex datasets into powerful insights 📊</p>
 
-<h2> I do commissions-! And A lot of community projects, so go here to donate or commission me-!</h2>
+<p align="center"> I do commissions-! And A lot of community projects, so go here to donate or commission me-!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wishingonstars)
+
+</p>
 
 ---
 
