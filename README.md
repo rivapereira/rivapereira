@@ -10,7 +10,7 @@
 
 <h2> I do commissions-! And A lot of community projects, so go here to donate or commission me-!</h2>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/https://ko-fi.com/wishingonstars)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wishingonstars)
 
 ---
 
