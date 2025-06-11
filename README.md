@@ -8,17 +8,15 @@
 <h3 align="center">Big Data Student @ UOWD • AI Residency Intern @ Decoding Datascience</h3>
 <p align="center">Turning complex datasets into powerful insights 📊</p>
 
-<p align="center"> I do commissions-! And A lot of community projects, so go here to donate or commission me-!
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wishingonstars)
-
-</p>
-
+<p align="center"> I do commissions-! And A lot of community projects, so go here to donate or commission me-! Look at my Kofi
+  
 ---
 
 ### 🔧 Skills & Technologies
 
 <p align="center">
+  
+   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wishingonstars)
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
