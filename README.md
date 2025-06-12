@@ -49,8 +49,21 @@
 
 ### 📚 Personal Projects
 
-🦖 **Chrome Dino Reinforcement Learning Agent**  
-Built an RL agent to master the Chrome Dino game. Check it out in my repos!
+**Career Buddy**
+This is for early professionals for weekly task management of courses, reward system, Linkdln and Github help inspired by Decoding Data-Science and Isham.
+-Agentic AI
+-Tavilly
+-Gradio
+-Apiffy
+
+**WAM Calculator**
+This is for the UOWD or Australian students around me, copy and paste your enrollment record and see how it works-!
+-Gradio
+
+
+**Elle-Cooking Assistant**
+This is a cooking assistant made for simple cooking tips
+-Groq
 
 ---
 
